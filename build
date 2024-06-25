@@ -3,8 +3,8 @@
 set -e -x
 
 # Kernel Source
-KERNEL_SOURCE=https://github.com/NoNameBuilder/UltracrepidarianKernel_a24
-KERNEL_BRANCH=main
+KERNEL_SOURCE=https://github.com/NoNameBuilder/android_kernel_samsung_a24/
+KERNEL_BRANCH=OSRC
 KERNEL_DEFCONFIG=a24_defconfig
 
 # Prebuilt Proton Clang Toolchain
